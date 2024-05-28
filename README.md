@@ -21,7 +21,3 @@ print(converter.convert(123456789))  # outputs: bir yüz iyirmi üç milyon dör
 License
 
 This project is licensed under the terms of the MIT license. See the LICENSE file for details.
-
-bash
-
-
