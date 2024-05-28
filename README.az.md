@@ -3,7 +3,6 @@
 - - -
 [![GitHub Stars](https://img.shields.io/github/stars/zmmmdf/aznum2words.svg?style=social&label=Stars&style=plastic)](https://github.com/zmmmdf/aznum2words/stargazers)
 [![Lisenziya](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
-
 [![Switch to English](https://img.shields.io/badge/lang-en-brightgreen)](./README.md)
 
 ## Məqsəd
