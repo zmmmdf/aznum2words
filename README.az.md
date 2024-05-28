@@ -1,7 +1,6 @@
 # AzNum2Words
 
 - - -
-![Davamlı İnteqrasiya](https://github.com/zmmmdf/aznum2words/actions/workflows/ci.yml/badge.svg?branch=master)
 [![GitHub Stars](https://img.shields.io/github/stars/zmmmdf/aznum2words.svg?style=social&label=Stars&style=plastic)](https://github.com/zmmmdf/aznum2words/stargazers)
 [![Lisenziya](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
